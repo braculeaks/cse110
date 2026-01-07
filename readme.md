@@ -17,6 +17,13 @@
 
 <div class="REY_ACADEMIA1">
 
+### TODO
+- I'll add the Lab MarkSheet (.xlsx) @ the end of semester
+- Next Semester's Teachers' Routine Grab
+- WebView for Teachers' Routine
+- More Tutorials for JAVA
+- Better JAVA: Recommended Resources for this readme
+
 ### Dates
 - theory-start: `11 october, 2025`
 - lab1: `23 October, 2025`
@@ -30,15 +37,25 @@
     - Array Tracing: 
         - https://www.youtube.com/watch?v=lxfa9ZCoRGE
         - https://www.youtube.com/watch?v=o82c2OQ6H4Q
-- lab8: `31 December, 2025` + Exam 4 on `Array`
-- I'll add the Lab MarkSheet (.xlsx) @ the end of semester
+- lab8: `03 January, 2026`
+    - Method Tracing
+        - https://www.youtube.com/watch?v=nlJ7ebroHO0 
+        - check last 5minutes of the above one
+- lab9: `05 January, 2026` 
+    - Exam 4 on `Array` / Last Lab
+- **final exam:** `11 January, 2026 : 08:30a.m.`
 
 ## This is CSE110: `Java I` `Fall2025` @ BRACU
 - `./0.outline` - Course Outline / Mark Distribution
 - `./1.notes` - PDF Notes from [bux](https://bux-home.bracu.ac.bd/courses/course-v1:buX+CSE110+2025_Fall)
 - `./2.rey-tutorials` - REYNEP's Tutorials on Java
-- `./3.labs` - What we do inside Lab + Assignments
+- `./3.labs` - **Lab+Assignment:** (All Sections)
 - `./4.exams` - MidTerm, LabExam/Quiz, Final Exam
+    - [🔗](https://github.com/MOO-ORG/CSE110/tree/main/Quiz)
+        - Many Sections: LabExam/Quiz Questions
+    - [🔗](https://github.com/MOO-ORG/CSE110/tree/main/Quiz/Section%2002)
+        - Section 02: LAB 1,2,3 
+        - Section 02: Assignment 1,2
 - `./5.final-project` - bleh
 - `./6.books`
     - well, never recommending books for "coding".
