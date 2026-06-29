@@ -1,6 +1,6 @@
 // An iteration of tic tac toe
 //
-// Recommended to us by RKBM (probably almost within his teaching range unlike tictacarray.java)
+// Recommended to us by RKBM (probably almost within his teaching range unlike tictacmatrix.java)
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
