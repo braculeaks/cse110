@@ -58,6 +58,7 @@
 
 - `./9.final-project` - bleh
 - `./9.rey-tutorials` - REYNEP's Tutorials on Java
+- `./10.capstone-projects` - Some projects which aid in everything learnt here
 </br>
 
 - Course Curriculumn / **List of Topics by Week** ---- [./0.outline/readme.md][17]
