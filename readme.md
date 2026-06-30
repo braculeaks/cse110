@@ -28,7 +28,7 @@
 - `./0.outline` - Course Outline / Mark Distribution
 - `./1.1.notes` - PDF Notes from [bux][11]
     - [12]: Provided by **AVB** (Avinandan Banarjee) in `cse111`, He was a Lab Faculty
-        
+
 - `./1.2.slides`
     - **Slides** are locked using `e/2PACX-`
         - i.e. https://docs.google.com/presentation/d/e/2PACX-(extra-identification-letters)
@@ -58,6 +58,7 @@
 
 - `./9.final-project` - bleh
 - `./9.rey-tutorials` - REYNEP's Tutorials on Java
+- `./9.capstone-projects-hitblast` - HitBlast's index of some of the projects that you might encounter as "challenges" (easy to hard).
 </br>
 
 - Course Curriculumn / **List of Topics by Week** ---- [./0.outline/readme.md][17]
@@ -96,4 +97,3 @@
 [4]: https://youtube.com/playlist?list=PLlrATfBNZ98e5KBKGcL7ARy3DjstzI2TV
 [5]: https://youtube.com/playlist?list=PLlrATfBNZ98cCfmH0xPebdVVMSYRQfyKi
 [6]: https://youtube.com/watch?v=UaxRRO9175A
-
