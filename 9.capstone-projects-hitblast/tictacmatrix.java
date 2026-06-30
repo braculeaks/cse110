@@ -1,7 +1,7 @@
 // An iteration of tic tac toe
 //
-// You should try the tictacarray.java first because this project overshoots the scope of CSE110 (slightly).
-// Only look at this file after you've tried the recommended version (tictacarray.java).
+// Try tictacarray.java first as this is far beyond the scope of what the program actually might "need", and more about
+// experimenting with multidimensional arrays with custom classes.
 import java.util.Objects;
 import java.util.Random;
 import java.util.Scanner;
