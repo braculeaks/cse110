@@ -11,8 +11,14 @@ public class totalprimes {
         int end = scanner.nextInt();
 
         int primes = 0;
+        int low;
+        int high;
 
-        for (int i = start; i <= end; i++) {
+        // failsafe switching
+        low = start > end ? end : start;
+        high = low == end ? start : end;
+
+        for (int i = low; i <= high; i++) {
             int count = 0;
             for (int j = 1; j <= i; j++) {
                 if (i % j == 0) {
