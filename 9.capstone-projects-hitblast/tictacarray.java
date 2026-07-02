@@ -65,6 +65,22 @@ public class tictacarray {
         System.out.println();
     }
 
+    static String getFieldInput(Scanner scanner, String prompt)
+        throws InterruptedException {
+        String name = "";
+        while (name.isBlank()) {
+            clearTerminal();
+            System.out.println(prompt);
+            name = scanner.nextLine().trim();
+
+            if (name.isBlank()) {
+                System.out.println("Input cannot be empty!");
+                Thread.sleep(2000);
+            }
+        }
+        return name;
+    }
+
     public static void main(String[] args) throws InterruptedException {
         int[] matrix = new int[9];
         Arrays.fill(matrix, 0);
@@ -74,6 +90,13 @@ public class tictacarray {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         boolean isP1sTurn = random.nextBoolean();
+
+        clearTerminal();
+        System.out.println("Before starting... please enter your names:\n");
+        Thread.sleep(2000);
+
+        String playerOneName = getFieldInput(scanner, "Who is player 1?");
+        String playerTwoName = getFieldInput(scanner, "Who is player 2?");
 
         while (true) {
             if (chances == 0 || someoneWon) {
@@ -98,7 +121,7 @@ public class tictacarray {
             drawMatrix(matrix);
 
             System.out.println(
-                (isP1sTurn ? "Player 1" : "Player 2") + "'s turn (1-9):"
+                (isP1sTurn ? playerOneName : playerTwoName) + "'s turn (1-9):"
             );
             int choice = scanner.nextInt() - 1;
             scanner.nextLine();
@@ -119,7 +142,7 @@ public class tictacarray {
                 drawMatrix(matrix);
 
                 System.out.println(
-                    (winner == 1 ? "Player 1" : "Player 2") + " has won!"
+                    (winner == 1 ? playerOneName : playerTwoName) + " has won!"
                 );
 
                 someoneWon = true;
