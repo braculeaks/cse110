@@ -11,7 +11,8 @@
 ### How to get CGPA 4.0?
 ```py
 Youtube Lecture/Class ----> Lab Assignments (on your own) 
-                        --> pSet (ST_Badhon) --> Past Quiz & LabExam --> pSet (central) --> Past mid & final
+                        --> pSet (ST_Badhon) --> Past Quiz & LabExam 
+                        --> pSet (central)   --> Past MidTerm & Finals
 ```
 Detailed: `./cg4.md`
 
