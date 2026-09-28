@@ -12,8 +12,9 @@
 
 <div class="REY_ACADEMIA1">
 
-### Dates
-check inside the readme.md in parent folder 😉
+summet 2026 lab files are the same as spring 2026 and fall 2025
+
+fall 2025 = summer 2026 (lab files)
 
 ### Method Tracing
 check last 5minutes of https://www.youtube.com/watch?v=nlJ7ebroHO0

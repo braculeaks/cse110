@@ -74,7 +74,7 @@ Detailed: `./cg4.md`
 - ASMN --- A S M Nasim Khan --------------- [labs][ASMN.lab]
 - KNI ---- Khondoker Nazia Iqbal ---------- [🎬][kni.yt]
 - MSI ---- Md. Saiful Islam --------------- [2024 java 🎬][MSI.yt] | [22fa - Python - 🎬][MSI.videos.py]
-- unknown --------------------------------- [2022 python 🎬][unknown1.py]
+- SFF ---- S. M. FARAH AL FAHIM  ---------- [2022 python 🎬][unknown1.py]
 - REYNEP's Recommendations
     - **BroCode** ----- (not BRACU faculty) ------- [🎬][BroCode] ( <= 6Hours for complete marathon of cse110) ➖ [PlayList 🎬][BroCode.playlist]
     - **Mosh**: Covers Week 2, 3, 4 ➡️ [🔗][mosh]
@@ -104,7 +104,7 @@ Detailed: `./cg4.md`
 [ANT.yt]:           https://www.youtube.com/playlist?list=PL3rn6LbL8yiYg5QHdJlqgJsoTAriqKFge
 [MSI.yt]:           https://youtube.com/playlist?list=PLr9he3UyIy3mOj-ehFpODvCS1U2d2RtRQ
 [MSI.videos.py]:    https://drive.google.com/drive/folders/1RUAUxeqBpPjJRGoOI97MPy7OQw2xNtTO
-[unknown1.py]:      https://www.youtube.com/playlist?list=PLBu7-uQsI3zJBKWaRjPVa5LC-C-06DkDF
+[SFF.py]:           https://www.youtube.com/playlist?list=PLBu7-uQsI3zJBKWaRjPVa5LC-C-06DkDF
 
 [AbuTalha.cse110]:  https://www.youtube.com/playlist?list=PLLkaPhRBVqfIdKjIv82AIuitXQIX92UXR
 [AbuTalha.final]:   https://www.youtube.com/playlist?list=PLLkaPhRBVqfI58qZ7RTVvrYcj4tE7060G
