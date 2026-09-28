@@ -1,102 +1,115 @@
-<div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/280272449?s=200&v=4" width="100px">
 
-# CSE110
-Prepared by BRACULeaks<br>
-Last updated for: Summer'26; BRAC University, Bangladesh
 
-</div>
 
+
+
+<h1  style="margin: 0; padding: 0"               align=center>  cse110: java 1               </h1>
+<div style="font-size: 1.5em; margin-top: -7px;" align=center>  (Summer 2026)                </div>
+<div style="font-size: 1em;   margin-top:  0px;" align=center>  @ BRAC University, Bangladesh</div>
 
 ### How to get CGPA 4.0?
-Theory Quiz / Lab Exam / midTerm / Final
-1. Solve lab assignments on your own.
-    - Don't use AI
-    - Don't ask friends at the first glance.
-    - Try die hard for at least 15-30minutes per problem.
-        - If you can come up with some code/psuedocode --> then, that's really nice.
-        - then, even if you can't, now you can ask friends for help :)
-        - ..
-2. Solve `2.practiceSheet` stuffs
-    1. Solve these **pSets** from **ST_BadhonNandi**
-        - [🔗](https://drive.google.com/drive/folders/1tdEqocBsaDPSstySABCduXZ0DxeHKz1k)
-        - I did include in `1.2.practiceSheets` folder too
-        - ..
-    2. solve `mid/final pSet` 
-    3. also,
-        - you can, solve the questions from inside `1.2.notes` (i.e. which are the official notes for bracu.cse110)
-        - but not "required"
-3. Solve `3.exams`
-    - past year Theory Quiz 
-    - past year Lab Exam
-    - past year mid/Final 
-- If any of the stuff above is feeling really hard:
-    - follow these videos:
-        - Abu Talha: [🔗](https://www.youtube.com/playlist?list=PLLkaPhRBVqfIdKjIv82AIuitXQIX92UXR)
-        - TAW BuX: [🔗](https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0KC2-N3hv0V3ib-Z6wKkAy)
+```py
+Youtube Lecture/Class ----> Lab Assignments (on your own) 
+                        --> pSet (ST_Badhon) --> Past Quiz & LabExam --> pSet (central) --> Past mid & final
+```
+Detailed: `./cg4.md`
+
+> [!NOTE]
+> You might get what is called "resource fatigue" from all the different stuffs in this repository. 🥴 \
+> That is exactly why we'll ask you to follow the sequence right above. \
+> **Good luck studying Java!**
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--========================================================================================================================-->
+
+[bux.25fa]: https://bux-home.bracu.ac.bd/courses/course-v1:buX+CSE110+2025_Fall
+[bux.26sp]: https://bux-home.bracu.ac.bd/courses/course-v1:buX+CSE110+2026_Spring
+[bux.26su]: https://bux-home.bracu.ac.bd/courses/course-v1:buX+CSE110+2026_Summer
+[bux.26fa]: https://bux-home.bracu.ac.bd/courses/course-v1:buX+CSE110+2026_Fall
+
+[bux.book.AVB]:     https://docs.google.com/document/d/1XrHLYIuKcmDHdpsVQwoov1uzV7ApNEao
+[bux.slides.MAU]:   https://drive.google.com/drive/folders/134I0jFo-LtBgObmVKawonegUNYvMYO4D
+[badhon.pset]:      https://drive.google.com/drive/folders/1tdEqocBsaDPSstySABCduXZ0DxeHKz1k
+
+<!--========================================================================================================================-->
+
+## Central
+- 0.outline         : [bux][bux.26su]
+- 1.notes           : [bux][bux.26su] | [AVB][bux.book.AVB]
+- 1.slides          : [bux][bux.26su] | [MAU][bux.slides.MAU]
+- 2.labs            : [bux][bux.26su]
+
+## Directory Structure
+| Folder                         | Description                                                                       |
+|--------------------------------|-----------------------------------------------------------------------------------|
+| `0.outline`                    | Course outline / mark distribution                                                |
+| `1.1.slides`                   | Courtesy of **Marshia Nujhat** (MAU) ma'am                                        |
+| `1.2.notes`                    | PDF Notes/Book from [bux][bux.26su]                                               |
+| `1.3.flowChart`                | Courtesy of **hitblast**                                                          |
+| `2.labs`                       | **Lab Assignments**                                                               |
+| `3.exams`                      | MidTerm, LabExam/Quiz, Final Exam                                                 |
+| `9.final-project`              | bleh                                                                              |
+| `9.rey-tutorials`              | REYNEP's Tutorials on Java                                                        |
+| `9.capstone-projects-hitblast` | HitBlast's index of some of the projects that you might encounter (easy to hard). |
 
 
 ### Videos
-- MSI (Fall 2022 - Python) Online Class Recordings: https://drive.google.com/drive/folders/1RUAUxeqBpPjJRGoOI97MPy7OQw2xNtTO
+- ANT ---- Anika Tasnim ------------------- [🎬][ANT.yt]
+- TAW ---- Tawhid Anwar ------------------- [10 minute videos🎬][TAW.yt]
+- -------- Abu Talha (Student) ------------ [🎬][AbuTalha.cse110] | [final.prep][AbuTalha.final]
+- -------- ST Badhon Nandi ---------------- [🎬][ST_Badhon.cse110]
+- ASMN --- A S M Nasim Khan --------------- [labs][ASMN.lab]
+- KNI ---- Khondoker Nazia Iqbal ---------- [🎬][kni.yt]
+- MSI ---- Md. Saiful Islam --------------- [2024 java 🎬][MSI.yt] | [22fa - Python - 🎬][MSI.videos.py]
+- unknown --------------------------------- [2022 python 🎬][unknown1.py]
+- REYNEP's Recommendations
+    - **BroCode** ----- (not BRACU faculty) ------- [🎬][BroCode] ( <= 6Hours for complete marathon of cse110) ➖ [PlayList 🎬][BroCode.playlist]
+    - **Mosh**: Covers Week 2, 3, 4 ➡️ [🔗][mosh]
+    - _**TheCherno (YT)**_
+        - [(2012, February)][2]
+        - [(2012, October)][3]
+        - [(2014, July) - **Flappy Bird**][4]
+        - [(2015) - **Serialization/MultiCore**][5]
+    - **CS50**: Java SE 8 Programming Basics (2017), by _**Bill Zhang**_ ➡️ [🔗][6]
 
+## Acknowledgements / Sources
+- LabExams & Quizes: https://github.com/MOO-ORG/CSE110/tree/main/Quiz
 
-## Table of Contents
+<!--========================================================================================================================-->
 
-- [CSE110](#cse110)
-        - [How to get CGPA 4.0?](#how-to-get-cgpa-40)
-        - [Videos](#videos)
-    - [Table of Contents](#table-of-contents)
-    - [Before You Start](#before-you-start)
-    - [Study Order](#study-order)
-    - [Recommended Resources](#recommended-resources)
-    - [External Resources](#external-resources)
+[mosh]:     https://www.youtube.com/watch?v=eIrMbAQSU34
+[TheCherno.1]:  https://youtube.com/playlist?list=PL656DADE0DA25ADBB
+[TheCherno.2]:  https://youtube.com/playlist?list=PLlrATfBNZ98eOOCk2fOFg7Qg5yoQfFAdf
+[TheCherno.3]:  https://youtube.com/playlist?list=PLlrATfBNZ98e5KBKGcL7ARy3DjstzI2TV
+[TheCherno.4]:  https://youtube.com/playlist?list=PLlrATfBNZ98cCfmH0xPebdVVMSYRQfyKi
+[cs50]:         https://youtube.com/watch?v=UaxRRO9175A
 
-## Before You Start
+[BroCode]:          https://www.youtube.com/watch?v=xTtL8E4LzTQ
+[BroCode.playlist]: https://www.youtube.com/playlist?list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc
 
-> [!NOTE]
-> You might get what is called "resource fatigue" while studying using this repository. The best practice for coding is to not actually "go through" resources, rather, learn *as you go*. This includes actually making something you might actually use.
+[TAW.yt]:           https://youtube.com/playlist?list=PLvr0Ht-XkB_0KC2-N3hv0V3ib-Z6wKkAy
+[ANT.yt]:           https://www.youtube.com/playlist?list=PL3rn6LbL8yiYg5QHdJlqgJsoTAriqKFge
+[MSI.yt]:           https://youtube.com/playlist?list=PLr9he3UyIy3mOj-ehFpODvCS1U2d2RtRQ
+[MSI.videos.py]:    https://drive.google.com/drive/folders/1RUAUxeqBpPjJRGoOI97MPy7OQw2xNtTO
+[unknown1.py]:      https://www.youtube.com/playlist?list=PLBu7-uQsI3zJBKWaRjPVa5LC-C-06DkDF
 
-- Follow [Recommended Resources](#recommended-resources) to get started off.
-- As you go through the lecture, follow the [Study Order](#study-order) to use the materials included in this repository.
-- **This course does NOT need learning build systems (e.g. Gradle),** so don't overthink about it.
+[AbuTalha.cse110]:  https://www.youtube.com/playlist?list=PLLkaPhRBVqfIdKjIv82AIuitXQIX92UXR
+[AbuTalha.final]:   https://www.youtube.com/playlist?list=PLLkaPhRBVqfI58qZ7RTVvrYcj4tE7060G
+[ST_Badhon.cse110]: https://www.youtube.com/playlist?list=PLAEI7kHBeYODbOcbLKDdGx2BMdSfs_A80
 
-## Study Order
+[ASMN.lab]:         https://www.youtube.com/playlist?list=PLVxFIK_VR8L_1UZR0owmQgE2ZpUXVz-0d
+[KNI.yt]:           https://www.youtube.com/@KhondokerNaziaIqbal/playlists
 
-~~Migrated from [older README](./rey.fa25.md).~~ This is the directory structure for this repository. Follow in chronological order:
-
-- `./0.outline` - Course outline / mark distribution
-- `./1.1.notes` - PDF Notes from [bux][11]
-    - [12]: Provided by **AVB** (Avinandan Banarjee) in `cse111`; he was a Lab Faculty.
-- `./1.2.slides`
-    - **Slides** are locked using `e/2PACX-`
-        - i.e. https://docs.google.com/presentation/d/e/2PACX-(extra-identification-letters)
-    - But, fortunately I ended up in **MAU**'s CSE111 section.
-        - and, she's an angel! she uploaded pdfs of cse110 slides to her drive folder that she shared with us
-- `./1.3.books` (only if you got TOO much time)
-- Lecture Videos
-    - [Bangla][13]
-    - [English][14]
-- Practice Sheet by ST Nandi
-    - https://drive.google.com/drive/folders/1tdEqocBsaDPSstySABCduXZ0DxeHKz1k
-- `./2.labs` - **Lab+Assignment:** (All Sections)
-- `./3.exams` - MidTerm, LabExam/Quiz, Final Exam
-    - [🔗][15]
-        - Many Sections: LabExam/Quiz Questions
-    - [🔗][16]
-        - Section 02: LAB 1,2,3
-        - Section 02: Assignment 1,2
-- `./9.final-project` - bleh
-- `./9.rey-tutorials` - REYNEP's Tutorials on Java
-- `./9.capstone-projects-hitblast` - HitBlast's index of some of the projects that you might encounter (easy to hard).
-
-## Recommended Resources
-
-- [Bro Code's 12 Hours of Java Tutorial](https://www.youtube.com/watch?v=xTtL8E4LzTQ) (only complete around 6 hours to get a complete marathon class for CSE110).
-- The same thing as above but [in a playlist](https://www.youtube.com/watch?v=23HFxAPyJ9U&list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc).
-
-## External Resources
-
-Curated in: [ext.md](./ext.md)
-
-Good luck studying Java!
+<!--========================================================================================================================-->

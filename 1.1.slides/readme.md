@@ -1,0 +1,5 @@
+- `./1.2.slides`
+    - **Slides** are locked using `e/2PACX-`
+        - i.e. https://docs.google.com/presentation/d/e/2PACX-(extra-identification-letters)
+    - But, fortunately I ended up in **MAU**'s CSE111 section.
+        - and, she's an angel! she uploaded pdfs of cse110 slides to her drive folder that she shared with us
