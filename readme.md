@@ -67,14 +67,15 @@ Detailed: `./cg4.md`
 
 
 ### Videos
-- ANT ---- Anika Tasnim ------------------- [🎬][ANT.yt]
-- TAW ---- Tawhid Anwar ------------------- [10 minute videos🎬][TAW.yt]
+- TAW ---- Tawhid Anwar ------------------- [10 minute videos🎬][TAW.yt] ➖ [py🎬][TAW.py]
 - -------- Abu Talha (Student) ------------ [🎬][AbuTalha.cse110] | [final.prep][AbuTalha.final]
 - -------- ST Badhon Nandi ---------------- [🎬][ST_Badhon.cse110]
 - ASMN --- A S M Nasim Khan --------------- [labs][ASMN.lab]
 - KNI ---- Khondoker Nazia Iqbal ---------- [🎬][kni.yt]
-- MSI ---- Md. Saiful Islam --------------- [2024 java 🎬][MSI.yt] | [22fa - Python - 🎬][MSI.videos.py]
-- SFF ---- S. M. FARAH AL FAHIM  ---------- [2022 python 🎬][unknown1.py]
+- MSI ---- Md. Saiful Islam --------------- [2024 java 🎬][MSI.yt] | 22fa - Python: [1🎬][MSI.py1] | [2🎬][MSI.py2] | [Drive][MSI.py2.drive]
+- SFF ---- S. M. FARAH AL FAHIM  ---------- [2022 python 🎬][SFF.py]
+- MAHR --- Mahrin Tasfee ------------------ [2023 python][MAHR.py]
+- ANT ---- Anika Tasnim ------------------- [2023 🎬][ANT.yt]
 - REYNEP's Recommendations
     - **BroCode** ----- (not BRACU faculty) ------- [🎬][BroCode] ( <= 6Hours for complete marathon of cse110) ➖ [PlayList 🎬][BroCode.playlist]
     - **Mosh**: Covers Week 2, 3, 4 ➡️ [🔗][mosh]
@@ -87,6 +88,7 @@ Detailed: `./cg4.md`
 
 ## Acknowledgements / Sources
 - LabExams & Quizes: https://github.com/MOO-ORG/CSE110/tree/main/Quiz
+- Python Questions - 2023 Spring - Tanzeebul Tamim: https://github.com/Tanzeebul-Tamim/CSE110-Fall-2023
 
 <!--========================================================================================================================-->
 
@@ -101,10 +103,15 @@ Detailed: `./cg4.md`
 [BroCode.playlist]: https://www.youtube.com/playlist?list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc
 
 [TAW.yt]:           https://youtube.com/playlist?list=PLvr0Ht-XkB_0KC2-N3hv0V3ib-Z6wKkAy
+[TAW.py]:           https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0V-mjAYlfgk-3VRmFarlzC
+
 [ANT.yt]:           https://www.youtube.com/playlist?list=PL3rn6LbL8yiYg5QHdJlqgJsoTAriqKFge
 [MSI.yt]:           https://youtube.com/playlist?list=PLr9he3UyIy3mOj-ehFpODvCS1U2d2RtRQ
-[MSI.videos.py]:    https://drive.google.com/drive/folders/1RUAUxeqBpPjJRGoOI97MPy7OQw2xNtTO
+[MSI.py2.drive]:    https://drive.google.com/drive/u/0/folders/1X6AvHdRgXy-oQgIUt9QpqhDGU_IqqP3w
+[MSI.py1]:          https://drive.google.com/drive/folders/1RUAUxeqBpPjJRGoOI97MPy7OQw2xNtTO
+[MSI.py2]:          https://www.youtube.com/playlist?list=PLtQXTSdoymQfo173BJeLyMZ9KlI7tORwW
 [SFF.py]:           https://www.youtube.com/playlist?list=PLBu7-uQsI3zJBKWaRjPVa5LC-C-06DkDF
+[MAHR.py]:          https://www.youtube.com/playlist?list=PLaBp58iNG2rPuiGxRgJOq3lJk07YgSA1w
 
 [AbuTalha.cse110]:  https://www.youtube.com/playlist?list=PLLkaPhRBVqfIdKjIv82AIuitXQIX92UXR
 [AbuTalha.final]:   https://www.youtube.com/playlist?list=PLLkaPhRBVqfI58qZ7RTVvrYcj4tE7060G
