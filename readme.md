@@ -57,17 +57,17 @@ Detailed: `./cg4.md`
 - notes by ST Sarah : [notion su26][ST.Sarah] | sarah.chowdhury@g.bracu.ac.bd (mail her if site is lost)
 
 ## Directory Structure
-| Folder                         | Description                                                                       |
-|--------------------------------|-----------------------------------------------------------------------------------|
-| `0.outline`                    | Course outline / mark distribution                                                |
-| `1.1.slides`                   | Courtesy of **Marshia Nujhat** (MAU) ma'am                                        |
-| `1.2.notes`                    | PDF Notes/Book from [bux][bux.26su]                                               |
-| `1.3.flowChart`                | Courtesy of **hitblast**                                                          |
-| `2.labs`                       | **Lab Assignments**                                                               |
-| `3.exams`                      | MidTerm, LabExam/Quiz, Final Exam                                                 |
-| `9.final-project`              | bleh                                                                              |
-| `9.rey-tutorials`              | REYNEP's Tutorials on Java                                                        |
-| `9.capstone-projects-hitblast` | HitBlast's index of some of the projects that you might encounter (easy to hard). |
+| Folder            | Description                                                                       |
+|-------------------|-----------------------------------------------------------------------------------|
+| `0.outline`       | Course outline / mark distribution                                                |
+| `1.1.slides`      | Courtesy of **Marshia Nujhat** (MAU) ma'am                                        |
+| `1.2.notes`       | PDF Notes/Book from [bux][bux.26su]                                               |
+| `1.3.flowChart`   | Courtesy of **hitblast**                                                          |
+| `2.labs`          | **Lab Assignments**                                                               |
+| `3.exams`         | MidTerm, LabExam/Quiz, Final Exam                                                 |
+| `9.final-project` | bleh                                                                              |
+| `9.rey-tutorials` | REYNEP's Tutorials on Java                                                        |
+| `9.hitblast`      | HitBlast's index of some of the projects that you might encounter (easy to hard). |
 
 
 ### Videos

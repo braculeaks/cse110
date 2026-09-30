@@ -24,9 +24,21 @@
 3. Solve `2.pset - ST_Badhon` ➖ Source: [🔗](https://drive.google.com/drive/folders/1tdEqocBsaDPSstySABCduXZ0DxeHKz1k)
 
 4. Solve Past Quiz & LabExam Questions ➖ `3.2.exams.labs` & `3.2.quiz`
+    - You won't ever have to solve "All of them".
+    - BRAC is simply not like that.
+    - Before Every TheoryQuiz / LabQuiz
+        - just solve 3/4 quiz as sample/practice
+    - Before mid/Final
+        - focus on Practise Sheets
+        - solve 3/4 quiz as sample/practice
+    - Just practising is enough. 
+    - If you can do the Lab Assignments on your own, without any AI / friends explanations.
+        - Then you probably won't even need to solve past Quiz/LabExams
 
 5. Solve `2.pSet` (which is central)
     1. you can look into `1.2.notes` if you want. Solve extra problems from there too. but not "required".
+    2. most of the pSet here are garbage.... 
+    3. ST_Badhon psets are the main pSets.
 
 6. Solve `3.exams`
 
