@@ -42,7 +42,10 @@ Detailed: `./cg4.md`
 
 [bux.book.AVB]:     https://docs.google.com/document/d/1XrHLYIuKcmDHdpsVQwoov1uzV7ApNEao
 [bux.slides.MAU]:   https://drive.google.com/drive/folders/134I0jFo-LtBgObmVKawonegUNYvMYO4D
+[ST.Sarah]:         https://cake-libra-920.notion.site/CSE110-Summer-26-3a171a199ec68034bd6cfb1b9a450e07
+
 [badhon.pset]:      https://drive.google.com/drive/folders/1tdEqocBsaDPSstySABCduXZ0DxeHKz1k
+[talha.sheet]:      https://docs.google.com/document/d/1ccVjjGSHO_QdjV7mvghesL36CXikY4iiwyhqL5AGRsg/edit?usp=drivesdk
 
 <!--========================================================================================================================-->
 
@@ -51,6 +54,7 @@ Detailed: `./cg4.md`
 - 1.notes           : [bux][bux.26su] | [AVB][bux.book.AVB]
 - 1.slides          : [bux][bux.26su] | [MAU][bux.slides.MAU]
 - 2.labs            : [bux][bux.26su]
+- notes by ST Sarah : [notion su26][ST.Sarah] | sarah.chowdhury@g.bracu.ac.bd (mail her if site is lost)
 
 ## Directory Structure
 | Folder                         | Description                                                                       |
@@ -68,8 +72,8 @@ Detailed: `./cg4.md`
 
 ### Videos
 - TAW ---- Tawhid Anwar ------------------- [10 minute videos🎬][TAW.yt] ➖ [py🎬][TAW.py]
-- -------- Abu Talha (Student) ------------ [🎬][AbuTalha.cse110] | [final.prep][AbuTalha.final]
-- -------- ST Badhon Nandi ---------------- [🎬][ST_Badhon.cse110]
+- -------- Abu Talha (Student) ------------ [🎬][AbuTalha.cse110] | [final.prep][AbuTalha.final] | Ask for materials from him, if you need, [old][talha.sheet]
+- -------- ST Badhon Nandi ---------------- [🎬][ST_Badhon.cse110] | [pset][badhon.pset]
 - ASMN --- A S M Nasim Khan --------------- [labs][ASMN.lab]
 - KNI ---- Khondoker Nazia Iqbal ---------- [🎬][kni.yt]
 - MSI ---- Md. Saiful Islam --------------- [2024 java 🎬][MSI.yt] | 22fa - Python: [1🎬][MSI.py1] | [2🎬][MSI.py2] | [Drive][MSI.py2.drive]
@@ -77,7 +81,7 @@ Detailed: `./cg4.md`
 - MAHR --- Mahrin Tasfee ------------------ [2023 python][MAHR.py]
 - ANT ---- Anika Tasnim ------------------- [2023 🎬][ANT.yt]
 - REYNEP's Recommendations
-    - **BroCode** ----- (not BRACU faculty) ------- [🎬][BroCode] ( <= 6Hours for complete marathon of cse110) ➖ [PlayList 🎬][BroCode.playlist]
+    - **Farhan Hasin Chowdhury** ------------------ [🎬][freecodecamp]
     - **Mosh**: Covers Week 2, 3, 4 ➡️ [🔗][mosh]
     - _**TheCherno (YT)**_
         - [(2012, February)][2]
@@ -85,6 +89,7 @@ Detailed: `./cg4.md`
         - [(2014, July) - **Flappy Bird**][4]
         - [(2015) - **Serialization/MultiCore**][5]
     - **CS50**: Java SE 8 Programming Basics (2017), by _**Bill Zhang**_ ➡️ [🔗][6]
+    - **BroCode** ----- (not BRACU faculty) ------- [🎬][BroCode] ( <= 6Hours for complete marathon of cse110) ➖ [PlayList 🎬][BroCode.playlist]
 
 ## Acknowledgements / Sources
 - LabExams & Quizes: https://github.com/MOO-ORG/CSE110/tree/main/Quiz
@@ -98,6 +103,8 @@ Detailed: `./cg4.md`
 [TheCherno.3]:  https://youtube.com/playlist?list=PLlrATfBNZ98e5KBKGcL7ARy3DjstzI2TV
 [TheCherno.4]:  https://youtube.com/playlist?list=PLlrATfBNZ98cCfmH0xPebdVVMSYRQfyKi
 [cs50]:         https://youtube.com/watch?v=UaxRRO9175A
+
+[freecodecamp]:     https://www.youtube.com/watch?v=A74TOX803D0
 
 [BroCode]:          https://www.youtube.com/watch?v=xTtL8E4LzTQ
 [BroCode.playlist]: https://www.youtube.com/playlist?list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc
